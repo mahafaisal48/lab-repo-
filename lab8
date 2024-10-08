@@ -2,7 +2,9 @@
 using namespace std;
 int main()
 {
-    cout<<"Hello World!";
+    cout<<"Hello World!"<<endl;
+    cout<<"ICT Lab 08";
+    cout<<"maha is a kiddo";
     return 0;
 
 }
